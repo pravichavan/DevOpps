@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "DevOps",
+  "namespace": "",
+  "sfdcLoginUrl": "https://orgfarm-d127e5771a-dev-ed.develop.lightning.force.com/",
+  "sourceApiVersion": "65.0"
+}
