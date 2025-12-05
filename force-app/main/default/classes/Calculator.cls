@@ -10,4 +10,7 @@ public with sharing class Calculator {
     public Integer multiply(Integer a, Integer b) {
         return a * b;
     }
+    public Integer division(Integer a, Integer b){
+        return a / b;
+    }
 }
